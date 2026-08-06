@@ -21,18 +21,21 @@ Wanted an introduction into embedded systems and wanted to make all blinds at ho
 - (Raspberry Pi running Home Assistant — planned)
 
 ## Status
-🚧 In progress — currently working on: [fill in as you go, e.g. "getting the bare motor spinning via Arduino IDE"]
+🚧 In progress — currently working on: Connecting motor to power supply and testing rotation 
+🟢 Completed - Basic software for motor rotations
 
 ## Progress Log
-- 07/27/2026 — Set up Arduino IDE, confirmed ESP32 board communication with Blink test
-- [Date] — Motor/driver ordered
+- 07/27/2026 — Setup Arduino IDE, confirmed ESP32 board communication with Blink test
+- 08/02/2026 - Connected A4988 drive to Arduino on breadboard (Dir and Step Pins)
+- 08/06/2026 — Completed motor rotation software and uploaded sketch onto Arduino. 
 - ...
 
 ## What I Learned
 - Learned how to connect board onto Arduino IDE and run a simple sketch
+- 
 
 ## Next Steps
-- [ ] Wire and test bare motor
+- [X] Wire and test bare motor
 - [ ] Design/print coupler for crank stick
 - [ ] Calibrate open/closed positions
 - [ ] Set up Home Assistant on Raspberry Pi
