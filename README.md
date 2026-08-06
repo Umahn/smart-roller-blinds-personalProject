@@ -4,7 +4,7 @@ Automating manual crank-stick roller blinds using an Arduino Nano ESP32,
 a NEMA 17 stepper motor, and Home Assistant, with voice control via Google Home.
 
 ## Motivation
-[Why you started this — e.g. tired of manually cranking blinds, wanted to learn embedded systems]
+Wanted an introduction into embedded systems and wanted to make all blinds at home automated and connected via the same home assistant network 
 
 ## How It Works
 - An Arduino Nano ESP32 drives a NEMA 17 stepper motor via an A4988 driver
@@ -24,12 +24,12 @@ a NEMA 17 stepper motor, and Home Assistant, with voice control via Google Home.
 🚧 In progress — currently working on: [fill in as you go, e.g. "getting the bare motor spinning via Arduino IDE"]
 
 ## Progress Log
-- [Date] — Set up Arduino IDE, confirmed ESP32 board communication with Blink test
+- 07/27/2026 — Set up Arduino IDE, confirmed ESP32 board communication with Blink test
 - [Date] — Motor/driver ordered
 - ...
 
 ## What I Learned
-[Fill in as you go — e.g. how stepper motors work, what a motor driver does, wiring/grounding basics]
+- Learned how to connect board onto Arduino IDE and run a simple sketch
 
 ## Next Steps
 - [ ] Wire and test bare motor
